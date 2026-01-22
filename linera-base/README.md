@@ -1,6 +1,6 @@
 <!-- cargo-rdme start -->
 
-This module provides a common set of types and library functions that are shared
+This module provides a common set of types and lib functions that are shared
 between the Linera protocol (compiled from Rust to native code) and Linera
 applications (compiled from Rust to Wasm).
 
